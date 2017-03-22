@@ -1,0 +1,8 @@
+prefix=/home/ece446/cvchallenge_task2_ws/devel
+
+Name: task2simulink
+Description: Description of task2simulink
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/ece446/cvchallenge_task2_ws/devel/lib 
+Requires: geometry_msgs roscpp rosgraph_msgs sensor_msgs std_msgs
