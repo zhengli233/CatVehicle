@@ -1,8 +1,0 @@
-prefix=/home/ece446/cvchallenge_task2_ws/install
-
-Name: hoffmannfollower
-Description: Description of hoffmannfollower
-Version: 1.0.1
-Cflags: 
-Libs: -L/home/ece446/cvchallenge_task2_ws/install/lib 
-Requires: geometry_msgs nav_msgs roscpp std_msgs visualization_msgs

@@ -1,8 +1,0 @@
-prefix=/home/ece446/cvchallenge_task2_ws/install
-
-Name: catvehicle
-Description: Description of catvehicle
-Version: 2.0.2
-Cflags: -I/home/ece446/cvchallenge_task2_ws/install/include
-Libs: -L/home/ece446/cvchallenge_task2_ws/install/lib -lcatvehicle
-Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs velodyne_pointcloud tf

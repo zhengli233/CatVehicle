@@ -1,2 +1,0 @@
-catvehicle:catvehicle_hoffmannfollower:cvchallenge_task2:hoffmannfollower:obstaclestopper:task2simulink
--DCATKIN_DEVEL_PREFIX=/home/ece446/cvchallenge_task2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ece446/cvchallenge_task2_ws/install -G Unix Makefiles
