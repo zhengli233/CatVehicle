@@ -1,3 +1,0 @@
-<launch>
-	<node name="task2" pkg="cvchallenge_task2" type="task2simulink_node"/>
-</launch>
