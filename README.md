@@ -18,6 +18,6 @@ Version Update Policies:
 ---------------------
 1. All changes should be uploaded to the folder "Project_Packages" first.
 
-2. The folder "alpha_release" will be our alpha release when we have an agreement. And after it is completed, it will not be changed anymore. 
+2. The folder "Alpha_Release" will be our alpha release when we have an agreement. And after it is completed, it will not be changed anymore. 
 
 3. So are the beta release and final release.
